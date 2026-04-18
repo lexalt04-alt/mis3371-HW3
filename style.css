@@ -1,1 +1,76 @@
+/*
+Author: Alex Nguyen
+File: style.css
+Date created: 03/22/2026
+Date last edited: 03/27/2026
+Version: 2.0
+Description: CSS for HW2
+*/
 
+*/
+body 
+{
+  background-color: #f8f4ff;
+  font-family: Helvetica, sans-serif;
+}
+
+#header 
+{
+  text-align: center;
+  background-color:#5b479a;
+  font-family: "Rockwell", serif;
+  color: #f8f4ff;
+  padding: 20px;
+}
+
+h2 {
+    color: #003366;
+}
+
+.logo 
+{
+  width: 80px;
+}
+
+table
+{
+  margin: auto;
+  font-family: "Georgia", serif;
+  color: #231f30;
+  background-color: rgb(165,133,201);
+  padding: 15px;
+}
+
+th
+{
+  color: #786b9e;
+  font-family: "Rockwell", serif;
+  margin: auto;
+  padding: 10px;
+}
+
+#footer 
+{
+  text-align: center;
+  font-family: "Georgia", serif;
+  color: #f8f4ff;
+  background-color: #5b479a;
+  padding: 10px;
+}
+
+.slider
+{
+  width:100%;
+}
+
+a
+{
+  color: orange;
+}
+
+a
+{
+  color: blue;
+}
+
+/* End of style.css document */
