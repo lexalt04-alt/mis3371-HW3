@@ -1,9 +1,10 @@
-/*
-    Name: Alex Nguyen
-    Date created: 03/25/26
-    Date Modified: 03/25/26
-    Purpose: Homework 3 JS
-*/
+ 	<!-- 
+    Author: Alex Nguyen
+    Date created: 04/15/26
+    Date last edited: 04/17/26
+    Version: 3.0
+    Description: JS for HW3
+-->
 
 //dynamic date js code
 const d = new Date();
