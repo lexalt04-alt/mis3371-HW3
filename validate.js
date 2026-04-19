@@ -1,10 +1,9 @@
- 	<!--
-    Author: Alex Nguyen
-    Date created: 04/12/2026
-    Date last edited: 04/17/2026
-    Version: 3.0
-    Description: HW 3 MIS3371, JS  
-    -->
+/*
+Author: Alex Nguyen
+Date Created: 4/15/26
+Date Modified: 4/18/26
+Description: JS for HW3 MIS 3371
+*/
 
 //dynamic date js code
 const d = new Date();
