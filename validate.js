@@ -2,6 +2,7 @@
 Author: Alex Nguyen
 Date Created: 4/15/26
 Date Modified: 4/18/26
+Version: 3.00
 Description: JS for HW3 MIS 3371
 */
 
