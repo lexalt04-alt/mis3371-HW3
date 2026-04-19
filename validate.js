@@ -1,9 +1,10 @@
-    <!-- 
+ 	<!--
     Author: Alex Nguyen
-    Date created: 04/15/26
-    Date last edited: 04/17/26
+	File: patientform.html
+    Date created: 03/20/2026
+    Date last edited: 03/27/2026
     Version: 3.0
-    Description: JS for HW3
+    Description: HW 3 MIS3371, JS  
     -->
 
 //dynamic date js code
